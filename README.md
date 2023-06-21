@@ -1,5 +1,6 @@
 # HEALTHCARE-MONITORING-SYSTEM
 A Supervised Machine learning based model which can predict three different diseases like - DIABETES, LUNG CANCER, HEART DISEASE. 
+
 StreamLit source code file is also provided along with the source .py file if anyone want to view this model as a Web App.
 Process to run STREAMLIT WEB APP:
 (1) open up CMD.
